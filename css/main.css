@@ -1,0 +1,55 @@
+.mg-t60{
+	margin-top: 80px;
+}
+.mg-r{
+	margin-right: 50%;
+}
+nav{
+	margin-right: -100px;
+}
+nav a{
+	margin-right: 50px;
+	color: gray;
+	text-decoration: none;
+	font-size: 1.1em;
+}
+/*
+.linea{
+	height: 15px;
+	width: 3px;
+	color: gray;
+	display: inline-block;
+}
+*/
+
+.fondo{
+	background-image: url("../img/semilla.jpg");
+	height: 450px;
+	margin-top: 10px;
+} 
+.fondo2{
+	background-image: url("../img/fondo.jpg");
+	height: 450px;
+	color: white;
+}
+.pd-5-10{
+	padding: 5% 15%;
+}
+.pd{
+	padding-top: 5%;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+.pd-text{
+	padding-bottom:5%;
+	padding-top: 1%;
+	padding-left: 8%;
+}
+.mg-text{
+	margin-left: 24%;
+}
+.paddingtop{
+	padding-top:30%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
